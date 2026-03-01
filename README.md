@@ -7,10 +7,10 @@ This project is a voltage monitoring and stabilization system designed to protec
 
 ## 🚀 Key Features
 
-* **Real-time Monitoring:** Continuous measurement of input voltage using an Analog-to-Digital Converter (ADC).
 * **Overvoltage Protection:** Automatic power cutoff mechanism when voltage exceeds safety thresholds.
-* **Visual Feedback (LCD):** Live display of voltage values and system status on a 16x2 LCD screen.
-* **Automatic Adjustment:** Controls regulation components (relays or servo-mechanisms) to stabilize output at 220V/230V.
+* **Adjustable Output:** Engineered the circuit to provide a stable output voltage between 8.5V and 17V, adjustable via a negative feedback network.
+* **Integrated Protection Systems: * Thermal Protection:** Implemented a circuit to limit the series element's temperature to 100°C.
+* ** * Overvoltage Protection:** Automatic power cutoff mechanism when voltage exceeds safety thresholds.
 
 ## 🛠️ Tech Stack
 
