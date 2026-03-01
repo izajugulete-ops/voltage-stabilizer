@@ -1,0 +1,1177 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Dec 12 23:38:26 2025
+\t (00:00:02)         Host=DESKTOP-57AOL8R User=Izabela Pid=19432 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession Izabela C:\P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG\SCHEMATICS\allegro\STABILIZATOR.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:05) Design opened: C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/STABILIZATOR.brd
+\t (00:00:05) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:00:05) trapsize 2774
+\i (00:00:05) trapsize 2841
+\t (00:00:05) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:00:05) trapsize 3224
+\i (00:00:05) trapsize 3793
+\i (00:00:05) generaledit 
+\i (00:00:21) generaledit 
+\i (00:00:31) placementedit 
+\i (00:00:33) drag_start grid 6.1227 24.5872
+\i (00:00:34) move 
+\t (00:00:34) last pick:  5.1900 23.4800
+\t (00:00:34) Moving R29 / R_RES2012X50N_0805_2.7K / RES2012X50N_0805.
+\t (00:00:34) Pick new location for the element(s).
+\i (00:00:36) drag_stop grid 5.9938 23.6843
+\i (00:00:36) placementedit 
+\i (00:00:52) drag_start grid 34.8199 18.3963
+\i (00:00:52) move 
+\t (00:00:52) last pick:  35.1000 17.4700
+\t (00:00:52) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:00:52) Pick new location for the element(s).
+\i (00:00:54) drag_stop grid 34.3685 18.0094
+\i (00:00:54) placementedit 
+\i (00:00:59) etchedit 
+\i (00:01:08) drag_start grid 35.0134 13.2373
+\i (00:01:08) slide 
+\t (00:01:09) Waiting for the destination pick.
+\i (00:01:10) drag_stop grid 34.8844 13.3018
+\t (00:01:10) DRC errors detected.
+\i (00:01:10) etchedit 
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 32.3049 17.5580
+\t (00:01:28) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:01:28) trapsize 1612
+\i (00:01:32) delete 
+\i (00:01:35) pick grid 35.0779 25.2321
+\t (00:01:35) last pick:  35.0800 25.2300
+\t (00:01:35) Connect Line "N11110, Etch/Top"
+\i (00:01:39) pick grid 35.1746 25.5223
+\t (00:01:39) last pick:  35.1700 25.5200
+\t (00:01:39) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:01:44) undo 
+\i (00:01:44) trapsize 1612
+\i (00:01:44) etchedit 
+\i (00:01:50) pick grid 35.5938 25.9415
+\t (00:01:50) last pick:  35.5900 25.9400
+\i (00:01:50) slide 
+\t (00:01:50) Waiting for the destination pick.
+\i (00:01:52) pick grid 35.7872 26.0705
+\t (00:01:52) last pick:  35.7900 26.0700
+\t (00:01:52) No DRC errors detected.
+\i (00:01:52) etchedit 
+\i (00:01:54) delete 
+\i (00:01:57) pick grid 35.7550 26.0060
+\t (00:01:57) last pick:  35.7600 26.0100
+\t (00:01:57) Connect Line "N11110, Etch/Top"
+\i (00:02:01) delete 
+\i (00:02:04) pick grid 35.2391 13.2696
+\t (00:02:04) last pick:  35.2400 13.2700
+\t (00:02:04) Connect Line "N11106, Etch/Top"
+\i (00:02:13) delete 
+\i (00:02:19) placementedit 
+\i (00:02:21) pick grid 34.5620 17.3001
+\t (00:02:21) last pick:  34.5600 17.3000
+\i (00:02:21) move 
+\t (00:02:21) last pick:  34.3700 18.0100
+\t (00:02:21) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:02:21) Pick new location for the element(s).
+\i (00:02:21) pick grid 34.3685 17.3646
+\t (00:02:21) last pick:  34.3700 17.3600
+\i (00:02:21) placementedit 
+\i (00:02:21) pick grid dbl 34.3685 17.3646
+\t (00:02:21) last pick:  34.3700 17.3600
+\i (00:02:21) move 
+\t (00:02:21) last pick:  34.3700 17.3600
+\t (00:02:21) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:02:21) Pick new location for the element(s).
+\i (00:02:22) pick grid 34.1750 17.4613
+\t (00:02:22) last pick:  34.1800 17.4600
+\i (00:02:22) placementedit 
+\i (00:02:23) drag_start grid 34.1105 17.6870
+\i (00:02:23) move 
+\t (00:02:23) last pick:  34.1800 17.4600
+\t (00:02:23) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:02:23) Pick new location for the element(s).
+\i (00:02:23) drag_stop grid 34.0783 18.0739
+\i (00:02:23) placementedit 
+\i (00:02:25) drag_start grid 33.9493 17.0421
+\i (00:02:25) move 
+\t (00:02:25) last pick:  34.0800 18.0700
+\t (00:02:25) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:02:25) Pick new location for the element(s).
+\i (00:02:27) drag_stop grid 33.7236 16.8487
+\i (00:02:27) placementedit 
+\i (00:02:30) roam y 96 
+\i (00:02:30) roam y 96
+\i (00:02:30) roam y 96 
+\i (00:02:30) roam y 96
+\i (00:02:32) drag_start grid 35.7227 11.2644
+\i (00:02:32) move 
+\t (00:02:32) last pick:  35.0500 10.7600
+\t (00:02:32) Moving R22 / R_RES2012X50N_0805_1K / RES2012X50N_0805.
+\t (00:02:32) Pick new location for the element(s).
+\i (00:02:35) drag_stop grid 35.5293 8.3624
+\i (00:02:35) placementedit 
+\i (00:02:37) drag_start grid 34.2073 18.2291
+\i (00:02:37) move 
+\t (00:02:37) last pick:  33.7200 16.8500
+\t (00:02:37) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:02:37) Pick new location for the element(s).
+\i (00:02:40) drag_stop grid 34.4330 12.2317
+\i (00:02:40) placementedit 
+\i (00:02:51) drag_start grid 37.6574 21.6792
+\i (00:02:51) move 
+\t (00:02:51) last pick:  37.0400 21.9800
+\t (00:02:51) Moving J2 / CON2_SMR2512_CON2 / SMR2512.
+\t (00:02:51) Pick new location for the element(s).
+\i (00:02:52) drag_stop grid 35.7550 22.1951
+\i (00:02:52) placementedit 
+\i (00:02:56) delete 
+\t (00:02:56) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:02:56) No valid items selected for the current operation, exiting.
+\i (00:02:56) placementedit 
+\i (00:03:06) delete 
+\t (00:03:06) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:03:06) No valid items selected for the current operation, exiting.
+\i (00:03:06) placementedit 
+\i (00:03:15) delete 
+\t (00:03:15) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:03:15) No valid items selected for the current operation, exiting.
+\i (00:03:15) placementedit 
+\i (00:03:16) pick grid 38.6570 14.1986
+\t (00:03:16) last pick:  38.6600 14.2000
+\i (00:03:23) delete 
+\i (00:03:25) pick grid 37.0125 24.0008
+\t (00:03:25) last pick:  37.0100 24.0000
+\t (00:03:25) Connect Line "Vout, Etch/Top"
+\i (00:03:28) delete 
+\i (00:03:33) etchedit 
+\i (00:03:35) drag_start grid 37.1415 24.5812
+\i (00:03:35) slide 
+\t (00:03:35) Waiting for the destination pick.
+\i (00:03:36) drag_stop grid 35.9807 24.6779
+\t (00:03:36) No DRC errors detected.
+\i (00:03:36) etchedit 
+\i (00:03:39) drag_start grid 35.9162 24.4522
+\i (00:03:39) slide 
+\t (00:03:39) Waiting for the destination pick.
+\i (00:03:41) drag_stop grid 35.8195 24.5812
+\t (00:03:41) No DRC errors detected.
+\i (00:03:41) etchedit 
+\i (00:03:49) placementedit 
+\i (00:03:51) drag_start grid 34.6909 13.2958
+\i (00:03:51) move 
+\t (00:03:51) last pick:  34.4300 12.2300
+\t (00:03:51) Moving R28 / R_RES2012X50N_0805_100 / RES2012X50N_0805.
+\t (00:03:51) Pick new location for the element(s).
+\i (00:03:55) drag_stop grid 35.5293 12.3285
+\i (00:03:55) placementedit 
+\i (00:03:59) add connect 
+\t (00:03:59) Selected item not valid for current operation, ignored: Symbol "R28"
+\t (00:03:59) No valid items selected for the current operation, exiting.
+\i (00:03:59) placementedit 
+\i (00:04:01) pick grid 35.9162 24.7102
+\t (00:04:01) last pick:  35.9200 24.7100
+\i (00:04:07) add connect 
+\t (00:04:07) Pick first element.
+\t (00:04:07) last pick:  35.8200 24.5900
+\i (00:04:08) mouse_pos 37.3027 23.0657
+\i (00:04:09) pick grid 35.7872 22.5498
+\t (00:04:09) last pick:  35.7900 22.5500
+\t (00:04:09) No DRC errors detected.
+\t (00:04:09) Pick first element.
+\i (00:04:09) placementedit 
+\i (00:04:11) pick grid 35.6905 16.0043
+\t (00:04:11) last pick:  35.6900 16.0000
+\i (00:04:11) move 
+\t (00:04:11) last pick:  35.7600 22.2000
+\t (00:04:11) Moving J2 / CON2_SMR2512_CON2 / SMR2512.
+\t (00:04:11) Pick new location for the element(s).
+\i (00:04:13) prepopup 35.9807 19.3254
+\i (00:04:15) cancel 
+\i (00:04:15) placementedit 
+\i (00:04:18) add connect 
+\t (00:04:18) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:04:18) No valid items selected for the current operation, exiting.
+\i (00:04:18) placementedit 
+\i (00:04:20) pick grid 35.4970 15.9398
+\t (00:04:20) last pick:  35.5000 15.9400
+\i (00:04:20) move 
+\t (00:04:20) last pick:  35.7600 22.2000
+\t (00:04:20) Moving J2 / CON2_SMR2512_CON2 / SMR2512.
+\t (00:04:20) Pick new location for the element(s).
+\i (00:04:21) prepopup 35.5293 15.9398
+\i (00:04:23) cancel 
+\i (00:04:23) placementedit 
+\i (00:04:42) add connect 
+\t (00:04:42) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:04:42) No valid items selected for the current operation, exiting.
+\i (00:04:42) placementedit 
+\i (00:04:51) add connect 
+\t (00:04:51) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:04:51) No valid items selected for the current operation, exiting.
+\i (00:04:51) placementedit 
+\i (00:04:52) prepopup 37.7219 10.4906
+\i (00:04:54) pick grid 37.4317 10.0714
+\t (00:04:54) last pick:  37.4300 10.0700
+\i (00:05:02) add connect 
+\t (00:05:02) Pick first element.
+\i (00:05:05) pick grid 36.3031 16.3267
+\t (00:05:05) last pick:  36.3000 16.3300
+\t (00:05:05) last pick:  35.7600 16.2056
+\t (00:05:05) last pick:  35.7600 16.2056
+\i (00:05:05) mouse_pos 36.3031 16.3267
+\i (00:05:05) mouse_pos 36.2064 16.3267
+\i (00:05:05) mouse_pos 35.7227 15.5851
+\i (00:05:05) mouse_pos 35.5615 14.6178
+\i (00:05:05) mouse_pos 35.5615 14.2631
+\i (00:05:05) mouse_pos 35.5615 14.1986
+\i (00:05:05) mouse_pos 35.5615 14.1341
+\i (00:05:05) mouse_pos 35.5615 14.0374
+\i (00:05:05) mouse_pos 35.5615 14.0051
+\i (00:05:08) mouse_pos 35.9162 14.2309
+\i (00:05:08) mouse_pos 36.0129 14.3598
+\i (00:05:08) mouse_pos 36.0452 14.4888
+\i (00:05:08) mouse_pos 36.3031 15.3272
+\i (00:05:08) mouse_pos 36.3354 15.1982
+\i (00:05:08) mouse_pos 35.9162 14.1341
+\i (00:05:09) mouse_pos 35.4326 10.6195
+\i (00:05:09) mouse_pos 35.4326 10.5873
+\i (00:05:10) mouse_pos 36.5288 11.6836
+\i (00:05:10) mouse_pos 36.8835 11.8126
+\i (00:05:10) mouse_pos 37.1737 11.8770
+\i (00:05:10) mouse_pos 36.9158 11.0387
+\i (00:05:10) mouse_pos 36.9158 11.0065
+\i (00:05:10) mouse_pos 36.9158 10.9742
+\i (00:05:10) mouse_pos 36.9480 10.9742
+\i (00:05:11) mouse_pos 36.8835 10.9742
+\i (00:05:11) mouse_pos 36.8513 10.9742
+\i (00:05:11) mouse_pos 36.8190 10.9742
+\i (00:05:11) mouse_pos 36.7546 11.0387
+\i (00:05:11) mouse_pos 36.7223 11.0387
+\i (00:05:11) mouse_pos 36.6901 11.0709
+\i (00:05:11) mouse_pos 36.5611 11.1032
+\i (00:05:11) mouse_pos 36.5288 11.1032
+\i (00:05:12) mouse_pos 36.4644 11.0709
+\i (00:05:12) mouse_pos 36.4966 11.0709
+\i (00:05:12) mouse_pos 36.5933 11.0387
+\i (00:05:12) mouse_pos 36.6901 11.0387
+\i (00:05:12) mouse_pos 36.8190 11.0065
+\i (00:05:12) mouse_pos 36.9158 10.9420
+\i (00:05:12) mouse_pos 37.0770 10.8452
+\i (00:05:14) pick grid 37.6896 11.2967
+\t (00:05:14) last pick:  37.6900 11.3000
+\t (00:05:14) No DRC errors detected.
+\t (00:05:14) Pick first element.
+\i (00:05:20) pick grid 37.6574 11.1354
+\t (00:05:20) last pick:  37.6600 11.1400
+\t (00:05:20) Pick first element.
+\t (00:05:20) last pick:  37.6900 11.3000
+\t (00:05:20) last pick:  37.6900 11.3000
+\i (00:05:20) mouse_pos 37.6574 11.1354
+\i (00:05:21) mouse_pos 36.7223 7.2662
+\i (00:05:21) mouse_pos 36.6901 7.2662
+\i (00:05:21) mouse_pos 36.6578 7.2662
+\i (00:05:21) mouse_pos 36.6256 7.2662
+\i (00:05:21) mouse_pos 36.5933 7.2662
+\i (00:05:21) mouse_pos 36.4966 7.2662
+\i (00:05:21) mouse_pos 36.4644 7.2662
+\i (00:05:21) mouse_pos 36.3999 7.2662
+\i (00:05:21) mouse_pos 36.3354 7.2662
+\i (00:05:21) mouse_pos 36.3031 7.2662
+\i (00:05:21) mouse_pos 36.2709 7.2984
+\i (00:05:21) mouse_pos 36.2387 7.2984
+\i (00:05:22) pick grid 35.9485 7.2984
+\t (00:05:22) last pick:  35.9500 7.3000
+\t (00:05:22) No DRC errors detected.
+\t (00:05:22) Pick first element.
+\i (00:05:27) undo 
+\i (00:05:27) trapsize 1612
+\i (00:05:27) placementedit 
+\i (00:05:30) undo 
+\i (00:05:30) trapsize 1612
+\i (00:05:30) placementedit 
+\i (00:05:32) roam y 96 
+\i (00:05:32) roam y 96
+\i (00:05:33) roam x -96 
+\i (00:05:33) roam x -96
+\i (00:05:33) roam y -96 
+\i (00:05:33) roam y -96
+\i (00:05:33) roam y -96 
+\i (00:05:33) roam y -96
+\i (00:05:34) roam x -96 
+\i (00:05:34) roam x -96
+\i (00:05:35) roam y 96 
+\i (00:05:35) roam y 96
+\i (00:05:35) roam x 96 
+\i (00:05:35) roam x 96
+\i (00:05:38) add connect 
+\t (00:05:38) Pick first element.
+\i (00:05:40) pick grid 34.9047 11.6191
+\t (00:05:40) last pick:  34.9000 11.6200
+\t (00:05:40) last pick:  35.5300 11.3300
+\t (00:05:40) Target Symbol Pin is defined on TOP.
+\t (00:05:40) last pick:  35.5300 11.3300
+\i (00:05:40) mouse_pos 35.1304 10.1681
+\i (00:05:40) pick grid 35.3883 9.1685
+\t (00:05:40) last pick:  35.3900 9.1700
+\t (00:05:40) No DRC errors detected.
+\t (00:05:40) Pick first element.
+\i (00:05:42) pick grid 37.6132 8.1367
+\t (00:05:42) last pick:  37.6100 8.1400
+\t (00:05:42) Pick first element.
+\t (00:05:42) last pick:  37.6100 8.1400
+\i (00:05:45) prepopup 37.6132 8.1367
+\i (00:05:47) cancel 
+\i (00:05:47) placementedit 
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:50) roam y -96 
+\i (00:05:50) roam y -96
+\i (00:05:50) roam y -96 
+\i (00:05:50) roam y -96
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:52) roam y -96 
+\i (00:05:52) roam y -96
+\i (00:06:17) add connect 
+\t (00:06:17) Pick first element.
+\i (00:06:18) pick grid 35.6141 28.4181
+\t (00:06:18) last pick:  35.6100 28.4200
+\t (00:06:18) last pick:  35.7300 28.6034
+\t (00:06:18) Target Symbol Pin is defined on TOP.
+\t (00:06:18) last pick:  35.7300 28.6034
+\i (00:06:20) pick grid 35.8075 26.4835
+\t (00:06:20) last pick:  35.8100 26.4800
+\t (00:06:20) No DRC errors detected.
+\t (00:06:20) last pick:  35.7300 26.5600
+\i (00:06:21) pick grid 38.3548 25.8064
+\t (00:06:21) last pick:  38.3500 25.8100
+\t (00:06:21) No DRC errors detected.
+\i (00:06:24) pick grid 38.0646 13.3924
+\t (00:06:24) last pick:  38.0600 13.3900
+\t (00:06:24) No DRC errors detected.
+\i (00:06:24) mouse_pos 38.0646 13.3924
+\i (00:06:24) mouse_pos 37.9679 13.3924
+\i (00:06:25) mouse_pos 36.6136 13.3602
+\i (00:06:26) pick grid 35.9365 13.2312
+\t (00:06:26) last pick:  35.9400 13.2300
+\t (00:06:26) No DRC errors detected.
+\t (00:06:26) Pick first element.
+\i (00:06:32) roam y 96 
+\i (00:06:32) roam y 96
+\i (00:06:33) pick grid 38.2903 10.0713
+\t (00:06:33) last pick:  38.2900 10.0700
+\t (00:06:33) Pick first element.
+\t (00:06:33) last pick:  38.2900 10.0700
+\i (00:06:35) prepopup 38.8062 10.5227
+\i (00:06:36) cancel 
+\i (00:06:37) placementedit 
+\i (00:06:38) roam y 96 
+\i (00:06:38) roam y 96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:41) roam y -96 
+\i (00:06:41) roam y -96
+\i (00:06:42) roam x -96 
+\i (00:06:42) roam x -96
+\i (00:06:42) roam y -96 
+\i (00:06:42) roam y -96
+\i (00:06:46) placementedit 
+\i (00:06:48) pick grid 6.3043 24.2264
+\t (00:06:48) last pick:  6.3000 24.2300
+\i (00:06:48) move 
+\t (00:06:48) last pick:  5.9900 23.6800
+\t (00:06:48) Moving R29 / R_RES2012X50N_0805_2.7K / RES2012X50N_0805.
+\t (00:06:48) Pick new location for the element(s).
+\i (00:06:51) pick grid 5.3047 13.6504
+\t (00:06:51) last pick:  5.3000 13.6500
+\i (00:06:51) placementedit 
+\i (00:06:55) delete 
+\t (00:06:55) Selected item not valid for current operation, ignored: Symbol "R29"
+\t (00:06:55) No valid items selected for the current operation, exiting.
+\i (00:06:55) placementedit 
+\i (00:06:57) delete 
+\t (00:06:57) Selected item not valid for current operation, ignored: Symbol "R29"
+\t (00:06:57) No valid items selected for the current operation, exiting.
+\i (00:06:57) placementedit 
+\i (00:06:57) delete 
+\t (00:06:57) Selected item not valid for current operation, ignored: Symbol "R29"
+\t (00:06:57) No valid items selected for the current operation, exiting.
+\i (00:06:57) placementedit 
+\i (00:06:57) delete 
+\t (00:06:57) Selected item not valid for current operation, ignored: Symbol "R29"
+\t (00:06:57) No valid items selected for the current operation, exiting.
+\i (00:06:57) placementedit 
+\i (00:07:00) pick grid 6.4010 27.2251
+\t (00:07:00) last pick:  6.4000 27.2300
+\i (00:07:00) move 
+\t (00:07:00) last pick:  8.8500 23.8300
+\t (00:07:00) Moving U2 / 1N4148_2_SMD0805_1N4148 / SMD0805.
+\t (00:07:00) Pick new location for the element(s).
+\i (00:07:01) prepopup 6.3365 27.0961
+\i (00:07:02) cancel 
+\i (00:07:02) placementedit 
+\i (00:07:03) pick grid 6.9814 21.1955
+\t (00:07:03) last pick:  6.9800 21.2000
+\i (00:07:05) delete 
+\i (00:07:07) pick grid 5.3369 27.2574
+\t (00:07:07) last pick:  5.3400 27.2600
+\t (00:07:07) Connect Line "N11368, Etch/Top"
+\i (00:07:09) delete 
+\i (00:07:14) pick grid 5.3369 15.9720
+\t (00:07:14) last pick:  5.3400 15.9700
+\t (00:07:14) Connect Line "N11596, Etch/Top"
+\i (00:07:16) delete 
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 5.6271 22.3240
+\t (00:07:18) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:07:18) trapsize 3224
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 5.6272 22.3241
+\t (00:07:20) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:07:20) trapsize 1612
+\i (00:07:21) zoom out 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom out 5.6272 22.3241
+\t (00:07:21) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:07:21) trapsize 3224
+\i (00:07:36) zoom in 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom in 4.7889 21.0344
+\t (00:07:36) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:07:36) trapsize 1612
+\i (00:07:43) placementedit 
+\i (00:07:45) drag_start grid 4.1441 24.0331
+\i (00:07:45) move 
+\t (00:07:45) last pick:  3.1900 18.1700
+\t (00:07:45) Moving J1 / CON2_0_SMR2512_CON2 / SMR2512.
+\t (00:07:45) Pick new location for the element(s).
+\i (00:07:46) drag_stop grid 4.6600 24.0331
+\i (00:07:46) placementedit 
+\i (00:07:47) drag_start grid 4.6600 24.0331
+\i (00:07:47) move 
+\t (00:07:47) last pick:  4.6600 24.0300
+\t (00:07:47) Moving J1 / CON2_0_SMR2512_CON2 / SMR2512.
+\t (00:07:47) Pick new location for the element(s).
+\i (00:07:48) drag_stop grid 4.2731 18.4549
+\i (00:07:48) placementedit 
+\i (00:07:50) drag_start grid 4.4020 18.4549
+\i (00:07:50) move 
+\t (00:07:50) last pick:  4.2700 18.4500
+\t (00:07:50) Moving J1 / CON2_0_SMR2512_CON2 / SMR2512.
+\t (00:07:50) Pick new location for the element(s).
+\i (00:07:51) drag_stop grid 3.5314 18.4549
+\i (00:07:51) placementedit 
+\i (00:07:54) pick grid 4.5310 26.9029
+\t (00:07:54) last pick:  4.5300 26.9000
+\i (00:07:55) delete 
+\i (00:07:56) pick grid 3.3057 27.7412
+\t (00:07:56) last pick:  3.3100 27.7400
+\t (00:07:56) Connect Line "Vin, Etch/Top"
+\i (00:07:58) delete 
+\i (00:08:01) add connect 
+\t (00:08:01) Pick first element.
+\i (00:08:02) pick grid 3.4670 29.9015
+\t (00:08:02) last pick:  3.4700 29.9000
+\t (00:08:02) last pick:  3.2900 30.0100
+\t (00:08:02) Target Symbol Pin is defined on TOP.
+\t (00:08:02) last pick:  3.2900 30.0100
+\i (00:08:03) mouse_pos 3.2735 25.5164
+\i (00:08:04) pick grid 3.3380 25.0972
+\t (00:08:04) last pick:  3.3400 25.1000
+\t (00:08:04) No DRC errors detected.
+\t (00:08:04) Pick first element.
+\i (00:08:05) pick grid 5.3371 29.5469
+\t (00:08:05) last pick:  5.3400 29.5500
+\t (00:08:05) Pick first element.
+\t (00:08:05) last pick:  5.2966 30.0100
+\t (00:08:05) Target Symbol Pin is defined on TOP.
+\t (00:08:05) last pick:  5.2966 30.0100
+\i (00:08:06) pick grid 5.1114 26.8706
+\t (00:08:06) last pick:  5.1100 26.8700
+\t (00:08:06) No DRC errors detected.
+\t (00:08:06) last pick:  5.2966 27.0566
+\i (00:08:08) pick grid 6.3367 26.6127
+\t (00:08:08) last pick:  6.3400 26.6100
+\t (00:08:08) No DRC errors detected.
+\i (00:08:12) pick grid 6.5624 16.3913
+\t (00:08:12) last pick:  6.5600 16.3900
+\t (00:08:12) No DRC errors detected.
+\i (00:08:14) pick grid 5.4661 16.0689
+\t (00:08:14) last pick:  5.4700 16.0700
+\t (00:08:14) No DRC errors detected.
+\i (00:08:15) mouse_pos 5.4338 15.4562
+\i (00:08:16) pick grid 5.3049 14.9081
+\t (00:08:16) last pick:  5.3000 14.9100
+\t (00:08:16) No DRC errors detected.
+\t (00:08:16) Pick first element.
+\i (00:08:19) roam y 96 
+\i (00:08:19) roam y 96
+\i (00:08:19) roam y 96 
+\i (00:08:19) roam y 96
+\i (00:08:21) pick grid 5.1436 12.5541
+\t (00:08:21) last pick:  5.1400 12.5500
+\t (00:08:21) Pick first element.
+\t (00:08:21) last pick:  5.3000 12.6500
+\t (00:08:21) Target Symbol Pin is defined on TOP.
+\t (00:08:21) last pick:  5.3000 12.6500
+\i (00:08:21) mouse_pos 4.7245 9.5554
+\i (00:08:22) pick grid 4.9502 8.6526
+\t (00:08:22) last pick:  4.9500 8.6500
+\t (00:08:22) No DRC errors detected.
+\t (00:08:22) Pick first element.
+\i (00:08:23) prepopup 2.5319 11.1999
+\i (00:08:26) done 
+\i (00:08:26) placementedit 
+\i (00:08:30) zoom out 1 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out 17.8800 14.0373
+\t (00:08:30) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:08:30) trapsize 3224
+\i (00:08:33) zoom fit 
+\i (00:08:33) trapsize 2503
+\i (00:08:45) generaledit 
+\i (00:08:47) setwindow form.find
+\i (00:08:47) FORM find all_off  
+\i (00:08:49) FORM find text YES 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) pick grid 33.3404 22.4278
+\t (00:08:51) last pick:  33.3400 22.4300
+\i (00:09:10) show element 
+\i (00:09:10) generaledit 
+\i (00:09:13) setwindow text
+\i (00:09:13) close
+\i (00:09:15) pick grid 6.8599 19.5745
+\t (00:09:15) last pick:  6.8600 19.5700
+\i (00:09:17) show element 
+\i (00:09:17) generaledit 
+\i (00:09:19) setwindow text
+\i (00:09:19) close
+\i (00:09:48) prmed 
+\i (00:09:51) setwindow form.prmedit
+\i (00:09:51) FORM prmedit text  
+\i (00:09:53) FORM prmedit text_setup_button  
+\i (00:10:11) setwindow form.textblock
+\i (00:10:11) FORM textblock 35 width 0.8000 
+\i (00:10:15) FORM textblock 35 height 0.8000 
+\i (00:10:18) FORM textblock 35 height 1.0000 
+\i (00:10:22) FORM textblock 35 line_spacing 1.0000 
+\i (00:10:30) FORM textblock 35 photoplot_width 0.1000 
+\i (00:11:28) FORM textblock 35 character_spacing 0.1524 
+\i (00:11:28) FORM textblock done  
+\i (00:11:29) setwindow form.prmedit
+\i (00:11:29) FORM prmedit cancel  
+\i (00:11:29) setwindow pcb
+\i (00:11:29) generaledit 
+\i (00:11:41) prmed 
+\i (00:11:42) setwindow form.prmedit
+\i (00:11:42) FORM prmedit text_setup_button  
+\i (00:11:55) setwindow form.textblock
+\i (00:11:55) FORM textblock 35 width 0.8000 
+\i (00:12:03) FORM textblock 35 height 1.0000 
+\i (00:12:06) FORM textblock 35 line_spacing 1.0000 
+\i (00:12:11) FORM textblock 35 photoplot_width 0.1000 
+\i (00:12:18) FORM textblock 35 character_spacing 0.1524 
+\i (00:12:18) FORM textblock add  
+\i (00:12:24) FORM textblock done  
+\i (00:12:26) setwindow form.prmedit
+\i (00:12:26) FORM prmedit done  
+\i (00:12:26) setwindow pcb
+\i (00:12:26) generaledit 
+\i (00:12:31) drag_start grid 31.8386 22.9784
+\i (00:12:31) move 
+\t (00:12:31) last pick:  31.6198 23.6605
+\t (00:12:31) Pick new location for the element(s).
+\i (00:12:32) drag_stop grid 36.9946 25.1309
+\i (00:12:32) generaledit 
+\i (00:12:32) drag_start grid 36.9946 25.1309
+\i (00:12:32) move 
+\t (00:12:33) last pick:  36.9900 25.1300
+\t (00:12:33) Pick new location for the element(s).
+\i (00:12:33) drag_stop grid 34.9422 22.9784
+\i (00:12:33) generaledit 
+\i (00:12:34) drag_start grid 35.2426 21.8271
+\i (00:12:34) move 
+\t (00:12:34) last pick:  34.9400 22.9800
+\t (00:12:34) Pick new location for the element(s).
+\i (00:12:35) drag_stop grid 32.7897 21.4767
+\i (00:12:35) generaledit 
+\i (00:12:35) pick grid 32.5895 22.6280
+\t (00:12:35) last pick:  32.5900 22.6300
+\i (00:12:36) drag_start grid 32.7397 20.4755
+\i (00:12:36) move 
+\t (00:12:36) last pick:  32.7900 21.4800
+\t (00:12:36) Pick new location for the element(s).
+\i (00:12:42) drag_stop grid 33.2403 14.9692
+\i (00:12:42) generaledit 
+\i (00:12:47) pick grid 6.7597 25.9819
+\t (00:12:47) last pick:  6.7600 25.9800
+\i (00:12:49) drag_start grid 6.7597 18.2730
+\i (00:12:49) move 
+\t (00:12:49) last pick:  7.6702 16.9895
+\t (00:12:49) Pick new location for the element(s).
+\i (00:12:50) drag_stop grid 6.6596 20.5756
+\i (00:12:50) generaledit 
+\i (00:12:54) drag_start grid 6.5094 21.0762
+\i (00:12:54) move 
+\t (00:12:54) last pick:  6.6600 20.5800
+\t (00:12:54) Pick new location for the element(s).
+\i (00:12:55) drag_stop grid 6.8599 20.3254
+\i (00:12:55) generaledit 
+\i (00:13:13) pick grid 26.7328 4.7074
+\t (00:13:13) last pick:  26.7300 4.7100
+\i (00:14:59) zoom in 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom in 37.8456 11.3150
+\t (00:14:59) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:14:59) trapsize 1251
+\i (00:15:00) zoom in 1 
+\i (00:15:00) setwindow pcb
+\i (00:15:00) zoom in 37.8456 11.3150
+\t (00:15:00) Grids are drawn 0.0800, 0.0800 apart for enhanced viewability.
+\i (00:15:00) trapsize 626
+\i (00:15:02) drag_start grid 37.9583 12.3036
+\i (00:15:02) move 
+\t (00:15:02) last pick:  37.9500 11.8900
+\t (00:15:02) Pick new location for the element(s).
+\i (00:15:05) drag_stop grid 37.8081 11.7030
+\i (00:15:05) generaledit 
+\i (00:15:07) prepopup 37.6329 12.0283
+\i (00:15:27) pop dyn_option_select @:@Spin 
+\i (00:15:27) spin 
+\i (00:15:30) iangle 90.000
+\t (00:15:30) last angle:  90.000 Degrees
+\i (00:15:30) generaledit 
+\i (00:15:32) pick grid 37.3951 11.7280
+\t (00:15:32) last pick:  37.4000 11.7300
+\i (00:15:32) drag_start grid 37.3951 11.7280
+\i (00:15:32) move 
+\t (00:15:32) last pick:  37.8100 11.7000
+\t (00:15:32) Pick new location for the element(s).
+\i (00:15:36) drag_stop grid 34.2415 11.9532
+\i (00:15:36) generaledit 
+\i (00:15:37) zoom out 1 
+\i (00:15:37) setwindow pcb
+\i (00:15:37) zoom out 36.1562 10.6267
+\t (00:15:37) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:15:37) trapsize 1251
+\i (00:15:38) drag_start grid 33.8535 9.1000
+\i (00:15:38) move 
+\t (00:15:38) last pick:  34.3300 9.1500
+\t (00:15:38) Pick new location for the element(s).
+\i (00:15:40) drag_stop grid 38.0333 8.6745
+\i (00:15:40) generaledit 
+\i (00:15:41) drag_start grid 34.0788 11.9282
+\i (00:15:41) move 
+\t (00:15:41) last pick:  34.2400 11.9500
+\t (00:15:41) Pick new location for the element(s).
+\i (00:15:42) drag_stop grid 34.2039 11.3776
+\i (00:15:42) generaledit 
+\i (00:15:45) pick grid 38.0834 11.6029
+\t (00:15:45) last pick:  38.0800 11.6000
+\i (00:15:53) drag_start grid 33.7534 13.6052
+\i (00:15:53) move 
+\t (00:15:53) last pick:  33.2400 14.9700
+\t (00:15:53) Pick new location for the element(s).
+\i (00:15:56) drag_stop grid 32.5270 22.9910
+\i (00:15:56) generaledit 
+\i (00:15:57) pick grid 33.3780 19.1616
+\t (00:15:57) last pick:  33.3800 19.1600
+\i (00:16:00) roam x -96 
+\i (00:16:00) roam x -96
+\i (00:16:00) roam x -96 
+\i (00:16:00) roam x -96
+\i (00:16:05) roam y 96 
+\i (00:16:05) roam y 96
+\i (00:16:06) roam y 96 
+\i (00:16:06) roam y 96
+\i (00:16:08) pick grid 26.1026 9.9611
+\t (00:16:08) last pick:  26.1000 9.9600
+\i (00:16:09) pick grid 26.0275 9.9611
+\t (00:16:09) last pick:  26.0300 9.9600
+\i (00:16:09) pick grid 26.0024 9.8109
+\t (00:16:09) last pick:  26.0000 9.8100
+\i (00:16:09) pick grid dbl 26.0024 9.8109
+\t (00:16:09) last pick:  26.0000 9.8100
+\i (00:16:11) drag_start grid 25.9023 10.1363
+\i (00:16:11) move 
+\t (00:16:11) last pick:  26.0100 9.2600
+\t (00:16:11) Pick new location for the element(s).
+\i (00:16:14) drag_stop grid 27.1788 5.5060
+\i (00:16:14) generaledit 
+\i (00:16:14) pick grid 30.7079 5.3308
+\t (00:16:14) last pick:  30.7100 5.3300
+\i (00:17:05) cmgr 
+\i (00:17:06) setwindow cmgr
+\i (00:17:06) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:17:06) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:17:06) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:17:06) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:17:06) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:17:06) cm newView ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:17:06) cm scope Design "STABILIZATOR"
+\i (00:17:06) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) ( "Part Instance" "D1" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) ( "Part Instance" "R30" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) ( "Part Instance" "R10" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R3" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R31" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:17:06) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) ( "Part Instance" "R17" ) )
+\i (00:17:06) cm selectDesignTab ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes ) 0
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:17:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:17:06) setwindow pcb
+\i (00:17:06) generaledit 
+\i (00:17:30) setwindow cmgr
+\i (00:17:30) cm putValue ( Pin "R31.1" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "R31.1" )
+\i (00:17:30) cm endUndoBlock
+\i (00:18:03) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10K:RES2012X50N_0805:10k:" ) )
+\i (00:18:03) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_10K:RES2012X50N_0805:10k:" ) )
+\i (00:18:04) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_100:RES2012X50N_0805:100:" ) )
+\i (00:18:05) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_100:RES2012X50N_0805:100:" ) )
+\i (00:18:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_150:RES2012X50N_0805:150:" ) )
+\i (00:18:06) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_150:RES2012X50N_0805:150:" ) )
+\i (00:18:07) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_220:RES2012X50N_0805:220:" ) )
+\i (00:18:08) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_220:RES2012X50N_0805:220:" ) )
+\i (00:18:09) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_330:RES2012X50N_0805:330:" ) )
+\i (00:18:10) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_330:RES2012X50N_0805:330:" ) )
+\i (00:18:12) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:18:14) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:18:23) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:18:24) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:18:25) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_680:RES2012X50N_0805:680:" ) )
+\i (00:18:26) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_680:RES2012X50N_0805:680:" ) )
+\i (00:18:35) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) )
+\i (00:18:36) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1:RES2012X50N_0805:1:" ) )
+\i (00:18:39) cm expand ( row ( "Part Definition" "QBC856B_0_TO236AA_QBC856B:TO236AA:QBC856B:" ) )
+\i (00:18:40) cm collapse ( row ( "Part Definition" "QBC856B_0_TO236AA_QBC856B:TO236AA:QBC856B:" ) )
+\i (00:19:13) cm putValue ( Pin "R3.1" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "R3.1" )
+\i (00:19:13) cm endUndoBlock
+\i (00:19:18) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10K:RES2012X50N_0805:10k:" ) )
+\i (00:19:18) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_10K:RES2012X50N_0805:10k:" ) )
+\i (00:19:20) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_100:RES2012X50N_0805:100:" ) )
+\i (00:19:21) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_100:RES2012X50N_0805:100:" ) )
+\i (00:19:22) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_150:RES2012X50N_0805:150:" ) )
+\i (00:19:22) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_150:RES2012X50N_0805:150:" ) )
+\i (00:19:24) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_220:RES2012X50N_0805:220:" ) )
+\i (00:19:24) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_220:RES2012X50N_0805:220:" ) )
+\i (00:19:25) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_330:RES2012X50N_0805:330:" ) )
+\i (00:19:25) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_330:RES2012X50N_0805:330:" ) )
+\i (00:19:26) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:19:27) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:19:28) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_680:RES2012X50N_0805:680:" ) )
+\i (00:19:29) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_680:RES2012X50N_0805:680:" ) )
+\i (00:19:43) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) ( "Part Instance" "R22" ) )
+\i (00:20:46) cm putValue ( Pin "R22.1" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "R22.1" )
+\i (00:20:46) cm endUndoBlock
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:20:51) cm close ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:20:52) cm exit
+\i (00:21:05) setwindow pcb
+\i (00:21:05) cmgr 
+\i (00:21:05) setwindow cmgr
+\i (00:21:05) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:21:05) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:21:05) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:21:05) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:21:05) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:05) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:21:05) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:21:06) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:21:06) cm newView ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:21:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:06) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:21:06) cm scope Design "STABILIZATOR"
+\i (00:21:06) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) ( "Part Instance" "D1" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1:RES2012X50N_0805:1:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) ( "Part Instance" "R22" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) ( "Part Instance" "R30" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) ( "Part Instance" "R10" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R3" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R31" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:21:06) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) ( "Part Instance" "R17" ) )
+\i (00:21:06) cm selectDesignTab ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes ) 0
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:21:06) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:21:06) setwindow pcb
+\i (00:21:06) generaledit 
+\i (00:21:30) setwindow cmgr
+\i (00:21:30) cm expand ( row ( "Part Definition" "QBC856B_0_TO236AA_QBC856B:TO236AA:QBC856B:" ) )
+\i (00:21:31) cm collapse ( row ( "Part Definition" "QBC856B_0_TO236AA_QBC856B:TO236AA:QBC856B:" ) )
+\i (00:21:32) cm expand ( row ( "Part Definition" "QBC846B_2_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:21:32) cm collapse ( row ( "Part Definition" "QBC846B_2_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:21:33) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:21:35) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) ( "Part Instance" "Q6" ) )
+\i (00:21:54) cm putValue ( Pin "Q6.2" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "Q6.2" )
+\i (00:21:54) cm endUndoBlock
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:22:30) cm close ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:22:30) cm exit
+\i (00:22:33) setwindow pcb
+\i (00:22:33) zoom in 1 
+\i (00:22:33) setwindow pcb
+\i (00:22:33) zoom in 35.6385 13.6904
+\t (00:22:33) Grids are drawn 0.0800, 0.0800 apart for enhanced viewability.
+\i (00:22:33) trapsize 626
+\i (00:22:34) zoom out 1 
+\i (00:22:34) setwindow pcb
+\i (00:22:34) zoom out 35.6386 13.6654
+\t (00:22:34) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:22:34) trapsize 1251
+\i (00:22:35) roam y -96 
+\i (00:22:35) roam y -96
+\i (00:22:35) roam y -96 
+\i (00:22:35) roam y -96
+\i (00:22:36) roam y -96 
+\i (00:22:36) roam y -96
+\i (00:22:36) roam y -96 
+\i (00:22:36) roam y -96
+\i (00:23:19) drag_start grid 14.8897 21.0989
+\i (00:23:19) move 
+\t (00:23:20) last pick:  14.0900 20.8900
+\t (00:23:20) Pick new location for the element(s).
+\i (00:23:20) drag_stop grid 14.9147 21.4493
+\i (00:23:20) generaledit 
+\i (00:23:20) pick grid 14.8146 21.3743
+\t (00:23:20) last pick:  14.8100 21.3700
+\i (00:23:21) drag_start grid 15.0398 21.5244
+\i (00:23:21) move 
+\t (00:23:22) last pick:  14.9100 21.4500
+\t (00:23:22) Pick new location for the element(s).
+\i (00:23:23) drag_stop grid 14.4391 21.1740
+\i (00:23:23) generaledit 
+\i (00:23:25) pick grid 15.1650 22.4255
+\t (00:23:25) last pick:  15.1700 22.4300
+\i (00:23:26) pick grid 17.3925 21.9499
+\t (00:23:26) last pick:  17.3900 21.9500
+\i (00:24:01) roam x -96 
+\i (00:24:01) roam x -96
+\i (00:24:02) roam x -96 
+\i (00:24:02) roam x -96
+\i (00:24:02) roam x -96 
+\i (00:24:02) roam x -96
+\i (00:24:03) roam x -96 
+\i (00:24:03) roam x -96
+\i (00:24:39) cmgr 
+\i (00:24:39) setwindow cmgr
+\i (00:24:39) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:24:39) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:39) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:39) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:24:39) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:24:39) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:39) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:39) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:24:39) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:24:39) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:24:40) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:24:40) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:24:40) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:24:40) cm newView ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:24:40) cm scope Design "STABILIZATOR"
+\i (00:24:40) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) ( "Part Instance" "D1" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) ( "Part Instance" "Q6" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1:RES2012X50N_0805:1:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) ( "Part Instance" "R22" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) ( "Part Instance" "R30" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) ( "Part Instance" "R10" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R3" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R31" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:24:40) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) ( "Part Instance" "R17" ) )
+\i (00:24:40) cm selectDesignTab ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes ) 0
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:24:40) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:24:40) setwindow pcb
+\i (00:24:40) generaledit 
+\i (00:24:44) setwindow cmgr
+\i (00:24:44) cm expand ( row ( "Part Definition" "POT_4_TS53YL_10K:TS53YL:10K:" ) )
+\i (00:24:45) cm collapse ( row ( "Part Definition" "POT_4_TS53YL_10K:TS53YL:10K:" ) )
+\i (00:24:47) cm expand ( row ( "Part Definition" "QBC846B_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:24:48) cm collapse ( row ( "Part Definition" "QBC846B_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:24:48) cm expand ( row ( "Part Definition" "LED_2_SMD0805_5V,LED,LED:SMD0805:5V,LED,LED:" ) )
+\i (00:24:49) cm collapse ( row ( "Part Definition" "LED_2_SMD0805_5V,LED,LED:SMD0805:5V,LED,LED:" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:28:09) cm close ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:28:09) cm exit
+\i (00:28:19) setwindow pcb
+\i (00:28:19) cmgr 
+\i (00:28:19) setwindow cmgr
+\i (00:28:19) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:28:19) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:28:19) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:28:19) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:28:19) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:28:19) cm newView ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:28:19) cm scope Design "STABILIZATOR"
+\i (00:28:19) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) ( "Part Instance" "D1" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) ( "Part Instance" "Q6" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1:RES2012X50N_0805:1:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) ( "Part Instance" "R22" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) ( "Part Instance" "R30" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) ( "Part Instance" "R10" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R3" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) ( "Part Instance" "R31" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:28:19) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) ( "Part Instance" "R17" ) )
+\i (00:28:19) cm selectDesignTab ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes ) 0
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:28:19) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:28:20) setwindow pcb
+\i (00:28:20) generaledit 
+\i (00:28:25) setwindow cmgr
+\i (00:28:25) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_4.7K:RES2012X50N_0805:4.7k:" ) )
+\i (00:28:25) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_4.7K:RES2012X50N_0805:4.7k:" ) )
+\i (00:28:28) cm collapse ( row ( "Part Definition" "R_RES2012X50N_0805_10:RES2012X50N_0805:10:" ) )
+\i (00:28:33) cm expand ( row ( "Part Definition" "CON2_SMR2512_CON2:SMR2512:CON2:" ) )
+\i (00:28:35) cm expand ( row ( "Part Definition" "CON2_SMR2512_CON2:SMR2512:CON2:" ) ( "Part Instance" "J2" ) )
+\i (00:29:01) cm putValue ( Pin "J2.2" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "J2.2" )
+\i (00:29:01) cm endUndoBlock
+\i (00:29:07) cm expand ( row ( "Part Definition" "CON2_0_SMR2512_CON2:SMR2512:CON2:" ) )
+\i (00:29:09) cm expand ( row ( "Part Definition" "CON2_0_SMR2512_CON2:SMR2512:CON2:" ) ( "Part Instance" "J1" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:29:31) cm close ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:29:32) cm exit
+\i (00:29:44) setwindow pcb
+\i (00:29:44) cmgr 
+\i (00:29:44) setwindow cmgr
+\i (00:29:44) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:29:44) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:29:44) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:29:44) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:44) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:29:44) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:29:44) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:29:44) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:29:44) cm newView ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:29:45) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:45) cm expand ( row ( Design "STABILIZATOR" ) )
+\i (00:29:45) cm scope Design "STABILIZATOR"
+\i (00:29:45) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "BZX84-C6V2_3_TO236AA_BZX84-C6V2:TO236AA:BZX84-C6V2:" ) ( "Part Instance" "D1" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "CON2_SMR2512_CON2:SMR2512:CON2:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "CON2_SMR2512_CON2:SMR2512:CON2:" ) ( "Part Instance" "J2" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "CON2_0_SMR2512_CON2:SMR2512:CON2:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "CON2_0_SMR2512_CON2:SMR2512:CON2:" ) ( "Part Instance" "J1" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "QBC846B_1_TO236AA_QBC846B:TO236AA:QBC846B:" ) ( "Part Instance" "Q6" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1:RES2012X50N_0805:1:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_1K:RES2012X50N_0805:1k:" ) ( "Part Instance" "R22" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_2.7K:RES2012X50N_0805:2.7k:" ) ( "Part Instance" "R30" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_RES2012X50N_0805_3.3K:RES2012X50N_0805:3.3k:" ) ( "Part Instance" "R10" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) )
+\i (00:29:45) cm expand ( row ( "Part Definition" "R_0_RES2012X50N_0805_510:RES2012X50N_0805:510:" ) ( "Part Instance" "R17" ) )
+\i (00:29:45) cm selectDesignTab ( kConsmgr worksheet 144:Properties 38:Component "41:Pin Properties" 153:Shapes ) 0
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:29:45) cm select ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:29:45) setwindow pcb
+\i (00:29:45) generaledit 
+\i (00:30:46) setwindow cmgr
+\i (00:30:46) cm putValue ( Pin "J1.1" ) DYN_CLEARANCE_OVERSIZE_ARRAY 0.2 7 ( Pin "J1.1" )
+\i (00:30:46) cm endUndoBlock
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:32:19) cm close ( frame ( kConsmgr workbook 144:Properties 38:Component "41:Pin Properties" ) )
+\i (00:32:19) cm exit
+\i (00:32:23) setwindow pcb
+\i (00:32:23) zoom out 1 
+\i (00:32:23) setwindow pcb
+\i (00:32:23) zoom out 24.1252 20.4983
+\t (00:32:23) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:32:23) trapsize 2503
+\i (00:52:41) exit 
+\e (00:52:41) Do you want to save the changes you made to STABILIZATOR.brd?
+\i (00:52:44) fillin yes 
+   (00:52:44) Loading consmgr.cxt 
+   (00:52:44) Loading acns_formula.cxt 
+\t (00:52:44)     Journal end - Sat Dec 13 00:31:08 2025
