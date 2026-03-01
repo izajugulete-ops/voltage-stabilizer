@@ -1,0 +1,90 @@
+
+**** 12/02/25 16:15:40 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Sim_Iz"  [ C:\Users\Izabela\OneDrive\Desktop\P1_2025_432D_Jugulete_Izabela_Ana-Maria_SERS_Tema7_17_OrCADg\Sc
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Sim_Iz.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib" 
+.LIB "../../../lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c6v2.lib" 
+* From [PSPICE NETLIST] section of C:\Users\Izabela\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN V1 0 36 0.1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STABILIZATOR
+X_U1         VIN N000361 1N4148 
+X_U2         N000361 N00566 1N4148 
+Q_Q1         N00573 N00566 N00562 QBC856B 
+Q_Q2         N00749 N00566 N00603 QBC856B 
+Q_Q4         N00749 N05027 VOUT QBC846B 
+Q_Q5         N00749 N00805 N00579 QBC846B 
+Q_Q6         N00749 N00660 0 QBC846B 
+D_D1         0 N00579 BZX84-C6V2 
+R_R1         N00903 VOUT  510 TC=0,0 
+R_R2         N00907 N00903  330 TC=0,0 
+R_R3         0 N00907  10 TC=0,0 
+R_R9         N14815 N00866  4.7k TC=0,0 
+R_R36         N003761 VOUT  3.3k TC=0,0 
+R_R8         N05204 N05027  1 TC=0,0 
+R_R12         N00603 VIN  150 TC=0,0 
+R_R13         N00562 VIN  100 TC=0,0 
+R_R14         N00660 N00579  10k TC=0,0 
+R_R15         N00783 N00660  1k TC=0,0 
+R_R16         N20567 N00566  2.7k TC=0,0 
+R_R17         0 N20567  510 TC=0,0 
+R_R20         VOUT N05027  10 TC=0,0 
+R_R21         VOUT N05204  1 TC=0,0 
+R_R22         0 N11106  1k TC=0,0 
+R_R28         N11106 N11110  100 TC=0,0 
+R_R29         N11596 N11368  2.7k TC=0,0 
+R_R30         0 N11596  2.7k TC=0,0 
+X_D3         N11368 VIN LED PARAMS: IS=2.0601e-26 RS=20  BV=5 IBV=5e-6         
+X_D4         N11110 VOUT LED PARAMS: IS=2.0601e-26 RS=20  BV=5 IBV=5e-6        
++  
+R_R32         N00579 N00573  680 TC=0,0 
+R_R33         N05027 N259560  1 TC=0,0 
+Q_Q8         VIN N00749 N260860 QBC846B 
+R_R35         N05027 N260860  1 TC=0,0 
+Q_Q3         VIN N00749 N259560 QBC846B 
+R_R34         N05027 N260280  1 TC=0,0 
+Q_Q7         VIN N00749 N260280 QBC846B 
+R_R7         N264191 N003761  220 TC=0,0 
+R_R10         0 N14815  3.3k TC=0,0 
+R_R31         0 N00783  10 TC=0,0 
+X_R6         N264191 N00805 N00866 POT PARAMS: SET=0.5 VALUE=10K
+
+**** RESUMING Sim_Iz.cir ****
+.END
+
+
+INFO(ORPSIM-15423): Unable to find index file nomd.ind for library file nomd.lib.
+
+INFO(ORPSIM-15422): Making new index file nomd.ind for library file nomd.lib.
+
+Index has 34104 entries from 205 file(s).
+
+ERROR(ORPSIM-15090): DC device V1 is undefined
+

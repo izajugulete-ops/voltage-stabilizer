@@ -1,0 +1,109 @@
+
+**** 10/27/25 22:04:05 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-V1"  [ c:\orcad\orcad_16.6_lite\tools\capture\stabersiz-pspicefiles\schematic1\v1.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "V1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c6v2."
++ "lib" 
+* From [PSPICE NETLIST] section of C:\Users\izaju\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN V_V1 0 36 0.1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STABERSIZ
+X_U1         N00555 N000361 1N4148 
+X_U2         N000361 N00566 1N4148 
+Q_Q1         N00573 N00566 N00562 QBC856B 
+Q_Q2         N00749 N00566 N00603 QBC856B 
+Q_Q3         N00555 N00749 N00821 QBC846B 
+Q_Q4         N00749 N00821 N00839 QBC846B 
+Q_Q5         N00749 N00805 N00573 QBC846B 
+Q_Q6         N00749 N00660 GND QBC846B 
+D_D1         GND N00573 BZX84-C6V2 
+R_R1         N00903 N00839  510 TC=0,0 
+R_R2         N00907 N00903  330 TC=0,0 
+R_R3         GND N00907  10 TC=0,0 
+R_R5         GND N00866  1k TC=0,0 
+X_R6         N00862 N00805 N00866 POT PARAMS: SET=0.5 VALUE=1K
+R_R7         N00862 N00839  1k TC=0,0 
+R_R8         N003921 N00821  1 TC=0,0 
+R_R9         N02313 N003921  0.47 TC=0,0 
+R_R10         N00839 N02313  0.47 TC=0,0 
+R_R11         N00839 N02313  0.47 TC=0,0 
+R_R12         N00603 N00555  100 TC=0,0 
+R_R13         N00562 N00555  82 TC=0,0 
+R_R14         N00660 N00573  1k TC=0,0 
+R_R15         GND N00660  1k TC=0,0 
+R_R16         N005491 N00566  2.7k TC=0,0 
+V_V1         N00555 GND 30.6Vdc
+R_R17         GND N005491  220 TC=0,0 
+
+**** RESUMING V1.cir ****
+.END
+
+ERROR(ORPSIM-15142): Node N00573 is floating
+
+ERROR(ORPSIM-15142): Node N00566 is floating
+
+ERROR(ORPSIM-15142): Node N00562 is floating
+
+ERROR(ORPSIM-15142): Node N00749 is floating
+
+ERROR(ORPSIM-15142): Node N00603 is floating
+
+ERROR(ORPSIM-15142): Node N00555 is floating
+
+ERROR(ORPSIM-15142): Node N00821 is floating
+
+ERROR(ORPSIM-15142): Node N00839 is floating
+
+ERROR(ORPSIM-15142): Node N00805 is floating
+
+ERROR(ORPSIM-15142): Node N00660 is floating
+
+ERROR(ORPSIM-15142): Node GND is floating
+
+ERROR(ORPSIM-15142): Node N00903 is floating
+
+ERROR(ORPSIM-15142): Node N00907 is floating
+
+ERROR(ORPSIM-15142): Node N00866 is floating
+
+ERROR(ORPSIM-15142): Node N00862 is floating
+
+ERROR(ORPSIM-15142): Node N003921 is floating
+
+ERROR(ORPSIM-15142): Node N02313 is floating
+
+ERROR(ORPSIM-15142): Node N005491 is floating
+
+ERROR(ORPSIM-15142): Node N000361 is floating
+

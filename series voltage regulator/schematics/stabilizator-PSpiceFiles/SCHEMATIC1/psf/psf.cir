@@ -1,0 +1,26 @@
+** Profile: "SCHEMATIC1-psf"  [ C:\Users\ioana\OneDrive\Desktop\StabiIza\stabersiz-pspicefiles\schematic1\psf.sim ] 
+
+** Creating circuit file "psf.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib"
++ "" 
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c6v2."
++ "lib" 
+* From [PSPICE NETLIST] section of C:\Users\ioana\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\25.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

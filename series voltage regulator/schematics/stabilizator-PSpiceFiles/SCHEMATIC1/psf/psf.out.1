@@ -1,0 +1,91 @@
+
+**** 11/05/25 15:27:16 *** PSpice 25.1.0 (14 September 2025) ** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-psf"  [ C:\Users\ioana\OneDrive\Desktop\StabiIza\stabersiz-pspicefiles\schematic1\psf.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "psf.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib"
++ "" 
+
+ERROR(ORPSIM-16276): Simulation cannot be completed because library c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib 
+is not available.
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib"
++ "" 
+
+ERROR(ORPSIM-16276): Simulation cannot be completed because library c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib 
+is not available.
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib"
++ "" 
+
+ERROR(ORPSIM-16276): Simulation cannot be completed because library c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib 
+is not available.
+.LIB "c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c6v2."
++ "lib" 
+* From [PSPICE NETLIST] section of C:\Users\ioana\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\25.1.0\PSpice.ini file:
+
+ERROR(ORPSIM-16276): Simulation cannot be completed because library c:/users/izaju/downloads/modele pspice_anexa 1 (1)/lib_modelepspice_anexa_1/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c6v2.lib 
+is not available.
+.lib "nom.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STABERSIZ
+X_U1         N00587 N000361 1N4148 
+X_U2         N000361 N00566 1N4148 
+Q_Q1         N00573 N00566 N00562 QBC856B 
+Q_Q2         N00749 N00566 N00603 QBC856B 
+Q_Q3         N00587 N00749 N00821 QBC846B 
+Q_Q4         N00749 N00821 N00845 QBC846B 
+Q_Q5         N00749 N00805 N00573 QBC846B 
+Q_Q6         N00749 N00660 0 QBC846B 
+D_D1         0 N00573 BZX84-C6V2 
+R_R1         N00903 N00845  510 TC=0,0 
+R_R2         N00907 N00903  330 TC=0,0 
+R_R3         0 N00907  10 TC=0,0 
+R_R5         N00884 N00866  9.1K TC=0,0 
+X_R6         N04075 N00805 N00866 POT PARAMS: SET=1 VALUE=10K
+R_R7         N00862 N00845  3.9K TC=0,0 
+R_R8         N05204 N00821  1 TC=0,0 
+R_R12         N00603 N00587  100 TC=0,0 
+R_R13         N00562 N00587  82 TC=0,0 
+R_R14         N00660 N00573  10k TC=0,0 
+R_R15         0 N00660  910 TC=0,0 
+R_R16         N005491 N00566  2.7k TC=0,0 
+V_V1         N00587 0 34Vdc
+R_R17         0 N005491  220 TC=0,0 
+R_R18         N04075 N00862  100 TC=0,0 
+R_R19         0 N00884  220 TC=0,0 
+R_R20         N00845 N00821  10 TC=0,0 
+R_R21         N00845 N05204  1 TC=0,0 
+R_R22         0 N11106  1k TC=0,0 
+R_R28         N11106 N11110  100 TC=0,0 
+R_R29         N11596 N11368  2.7k TC=0,0 
+R_R30         0 N11596  2.7k TC=0,0 
+X_D2         N00587 N11368 LED PARAMS: IS=2.0601e-26 RS=20  BV=5 IBV=5e-6      
++    
+X_D3         N00845 N11110 LED PARAMS: IS=2.0601e-26 RS=20  BV=5 IBV=5e-6      
++    
+
+**** RESUMING psf.cir ****
+.END
+
