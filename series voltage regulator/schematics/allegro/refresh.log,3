@@ -1,0 +1,65 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : STABILIZATOR.brd                              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Fri Dec 12 23:32:44 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Dec 12 23:32:44 2025				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/STABILIZATOR.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/Izabela/AppData/Local/Temp/#Taaaaad17256.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'RES2012X50N_0805'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'R145_95'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

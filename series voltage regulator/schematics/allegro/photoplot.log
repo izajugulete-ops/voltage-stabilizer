@@ -1,0 +1,306 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : STABILIZATOR.brd                              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Dec 13 12:08:38 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.45000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  1.27000     x 0.91440       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 0.91440      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.45010     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  1.45010     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  1.93040     x 1.21920       0.000 NO     DARK 
+  RECTANGLE  1.93040     x 1.21920      90.000 NO     DARK 
+  RECTANGLE  1.93040     x 3.04800      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.45000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < BO >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/BO.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     BO created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMBOT >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/SMBOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.80000                                  DARK 
+
+     SMBOT created.
+
+
+================================================================
+     PROCESSING FILM < SMTOP >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/SMTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  SQUARE     2.10000                     0.000 NO     DARK 
+  RECTANGLE  1.65000     x 2.35000       0.000 NO     DARK 
+  RECTANGLE  1.77400     x 1.41840       0.000 NO     DARK 
+  RECTANGLE  1.77400     x 1.41840      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.93040     x 3.04800      90.000 NO     DARK 
+  RECTANGLE  2.18040     x 1.46920       0.000 NO     DARK 
+  RECTANGLE  2.18040     x 1.46920      90.000 NO     DARK 
+
+     SMTOP created.
+
+
+================================================================
+     PROCESSING FILM < SPTOP >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/SPTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.90000                                  DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.15000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.15000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.93040     x 3.04800      90.000 NO     DARK 
+
+     SPTOP created.
+
+
+================================================================
+     PROCESSING FILM < SSTOP >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/SSTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     SSTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/P1_2025_432D_JUGULETE_IZABELA_ANA-MARIA_SERS_TEMA7_17_ORCADG/SCHEMATICS/allegro/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-9.0027 -18.1125)
+           ... ignored.
+
+    WARNING: 0 width line found at (-20.4200 -19.7000)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     FAB created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        BO created with warnings
+        SMBOT created.
+        SMTOP created.
+        SPTOP created.
+        SSTOP created with warnings
+        FAB created with warnings
+
+ ARTWORK had warnings
