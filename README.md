@@ -12,26 +12,5 @@ This project is a voltage monitoring and stabilization system designed to protec
 * **Integrated Protection Systems: * Thermal Protection:** Implemented a circuit to limit the series element's temperature to 100°C.
 * ** * Overvoltage Protection:** Automatic power cutoff mechanism when voltage exceeds safety thresholds.
 
-## 🛠️ Tech Stack
-
-* **Language:** Embedded C
-* **Microcontroller:** (e.g., ATmega328P / Arduino)
-* **Peripherals Used:** * **ADC:** For sampling analog voltage signals.
-    * **I2C/Parallel LCD:** For the user interface.
-    * **GPIO:** For controlling execution elements such as relays.
-
-## 📂 Project Structure
-
-* `voltage_stabilizer.ino` / `main.c`: The primary source code containing the control logic and safety algorithms.
-* `lib/`: External libraries used for LCD management and sensor interfacing.
-* `.gitignore`: Configured to exclude temporary build files and binary artifacts.
-
-## ⚙️ How It Works
-
-1. **Sensing:** The system reads the voltage from a step-down transformer or a dedicated sensor module.
-2. **Processing:** The microcontroller compares the sampled value against a pre-defined reference threshold.
-3. **Action:** If the voltage is too low or too high, the system switches relay stages to compensate for the difference.
-4. **Safety:** If the voltage reaches a critical range, the system enters "Safe Mode" and disconnects the load to prevent hardware damage.
-
 ---
-Developed as part of a personal portfolio focusing on **Embedded Systems** and **Analog Electronics**.
+Developed as part of a personal portfolio focusing on **Analog Electronics**.
